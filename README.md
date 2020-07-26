@@ -13,8 +13,7 @@
 ### About me :eyes:
 
 - :dart: Full stack development | Machine learning | Deep learning | Django | Odoo  
-- :heart: Open source contributor at **[GSSOC'20](https://www.gssoc.tech/)**
-- :writing_hand: Writing blogs on  **[Medium](https://medium.com/@hritik.jaiswal)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)**
+
 - :e-mail: Ask me about anything ; **[harikrishnank368@gmail.com](harikrishnank368@gmail.com)**
 
 ![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=harikrishnank-git&show_icons=true&hide_border=true)
