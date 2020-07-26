@@ -5,7 +5,7 @@
 
 :smiley: Studying P.G Diploma in Data Analytics at **[Indian Institute of Infrastructure & Construction, Chavara](https://www.iiic.ac.in/)** 
 
-⚡ Former Programmer Analyst ERP at **[Exelixir Analytics Private Limited]**
+⚡ Former Programmer Analyst ERP at **[Exelixir Analytics Private Limited](https://www.linkedin.com/company/exelixir-analytics-private-limited/about/)**
 👨‍🎓 B.Tech in Computer Science & engineering from the **[Sree Narayana Guru Institute of Science & Technology,N.Paravur](http://sngist.org/)** 
 
 ### About me :eyes:
