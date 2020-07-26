@@ -3,13 +3,13 @@
 
 
 
-:smiley: Studying P.G Diploma in Data Analytics at **[Indian Institute of Infrastructure & Construction](https://kjscerobocon.tech/)** 
+:smiley: Studying P.G Diploma in Data Analytics at **[Indian Institute of Infrastructure & Construction, Chavara](https://kjscerobocon.tech/)** 
 
 👨‍🎓 B.Tech in Computer Science & engineering from the **[Sree Narayana Guru Institute of Science & Technology,N.Paravur](http://sngist.org/)** 
 
 ### About me :eyes:
 
-- :dart: Full stack development | Machine learning | Deep learning | Computer vision 
+- :dart: Full stack development | Machine learning | Deep learning | Django | Odoo  
 - :heart: Open source contributor at **[GSSOC'20](https://www.gssoc.tech/)**
 - :writing_hand: Writing blogs on  **[Medium](https://medium.com/@hritik.jaiswal)** and solving bugs in **[StackOverflow](https://stackoverflow.com/users/11890231/hritik-jaiswal)**
 - :e-mail: Ask me about anything ; **[harikrishnank368@gmail.com](harikrishnank368@gmail.com)**
