@@ -12,7 +12,7 @@
 
 ### About me :eyes:
 
-- :dart: Full stack development | Machine learning | Deep learning | Django | Odoo  
+- :dart: Python development | Machine learning | Deep learning | Django | Odoo  
 
 - :e-mail: Ask me about anything ; **[harikrishnank368@gmail.com](harikrishnank368@gmail.com)**
 
