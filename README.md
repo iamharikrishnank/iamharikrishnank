@@ -3,7 +3,7 @@
 
 
 
-:smiley: Technical member of **[Team KJSCE Robocon](https://kjscerobocon.tech/)** 
+:smiley: Studying P.G Diploma in Data Analytics in **[Indian Institute of Infrastructure & Construction](https://kjscerobocon.tech/)** 
 
 👨‍🎓 B.Tech in Computer Science & engineering from the **[Sree Narayana Guru Institute of Science & Technology,N.Paravur](http://sngist.org/)** 
 
