@@ -16,25 +16,25 @@
 
 - :e-mail: Ask me about anything ; **[harikrishnank368@gmail.com](harikrishnank368@gmail.com)**
 
-![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=harikrishnank-git&show_icons=true&hide_border=true)
+![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=iamharikrishnank&show_icons=true&hide_border=true)
 
 ### Languages and Tools :computer:
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/harikrishnank-git) [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/harikrishnank-git) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/iamharikrishnank) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) 
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank)
 
- [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git)
+ [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/harikrishnank-git)](https://gitlab.com/harikrishnank-git) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/harikrishnank-git)](https://github.com/iamharikrishnank) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/iamharikrishnank)](https://gitlab.com/iamharikrishnank) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank)
 
 ### Reach out to me 👓
 
 |  <a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Harikrishnan K](https://hritik5102.github.io/)**                                                                                |
-|<a href="https://twitter.com/_harikrishnank"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/harikrishnank-git"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/iamharikrishnank">
+|       **[Harikrishnan K](https://iamharikrishnank.github.io/)**                                                                                |
+|<a href="https://twitter.com/_harikrishnank"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/iamharikrishnank-git"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/iamharikrishnank">
 <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/harikrishnan-k/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 
