@@ -20,14 +20,14 @@
 
 ### Languages and Tools :computer:
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/iamharikrishnank) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/iamharikrishnank)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/harikrishnank-git)](https://github.com/harikrishnank-git) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank)
 
  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank) [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/harikrishnank-git)](https://github.com/iamharikrishnank) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/iamharikrishnank)](https://gitlab.com/iamharikrishnank) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/harikrishnank-git)](https://github.com/iamharikrishnank)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/iamharikrishnank)](https://github.com/iamharikrishnank)
 
 ### Reach out to me 👓
 
