@@ -19,7 +19,7 @@
 
 - :e-mail: Ask me about anything ; **[harikrishnank368@gmail.com](harikrishnank368@gmail.com)**
 
-![Hritik's github stats](https://github-readme-stats.vercel.app/api?username=iamharikrishnank&show_icons=true&hide_border=true)
+![Harikrishnan's github stats](https://github-readme-stats.vercel.app/api?username=iamharikrishnank&show_icons=true&hide_border=true)
 
 ### Languages and Tools :computer:
 
