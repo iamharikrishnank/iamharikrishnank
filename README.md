@@ -3,10 +3,13 @@
 
 
 
-:smiley: Studying P.G Diploma in Data Analytics at **[Indian Institute of Infrastructure & Construction, Chavara](https://www.iiic.ac.in/)** 
+:smiley: Intern (AI & Analytics) at **[UL Technology Solutions (P) Ltd, Calicut](https://ults.in/)** 
+
+⚡ Former Python Developer at **[Empireae IT Services Private Ltd,Kochi](http://empireae.com/)**
 
 ⚡ Former Programmer Analyst ERP at **[Exelixir Analytics Private Limited,Kochi](https://www.exelixir.com/)**
 
+👨‍🎓 P.G Diploma in Data Analytics at **[Indian Institute of Infrastructure & Construction, Chavara](https://www.iiic.ac.in/)** 
 
 👨‍🎓 B.Tech in Computer Science & engineering from the **[Sree Narayana Guru Institute of Science & Technology,N.Paravur](http://sngist.org/)** 
 
