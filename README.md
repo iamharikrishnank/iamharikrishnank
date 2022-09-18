@@ -7,7 +7,7 @@
 
 :computer:  Former Python Developer at **[Empireae IT Services Private Ltd,Kochi](http://empireae.com/)**
 
-⚡ Former Programmer Analyst ERP at **[Exelixir Analytics Private Limited,Kochi](https://www.exelixir.com/)**
+💼  Former Programmer Analyst ERP at **[Exelixir Analytics Private Limited,Kochi](https://www.exelixir.com/)**
 
 👨‍🎓 P.G Diploma in Data Analytics at **[Indian Institute of Infrastructure & Construction, Chavara](https://www.iiic.ac.in/)** 
 
