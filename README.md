@@ -3,9 +3,9 @@
 
 
 
-:smiley: Intern (AI & Analytics) at **[UL Technology Solutions (P) Ltd, Calicut](https://ults.in/)** 
+💼  Former Intern (AI & Analytics) at **[UL Technology Solutions (P) Ltd, Calicut](https://ults.in/)** 
 
-:computer:  Former Python Developer at **[Empireae IT Services Private Ltd,Kochi](http://empireae.com/)**
+💼   Former Python Developer at **[Empireae IT Services Private Ltd,Kochi](http://empireae.com/)**
 
 💼  Former Programmer Analyst ERP at **[Exelixir Analytics Private Limited,Kochi](https://www.exelixir.com/)**
 
